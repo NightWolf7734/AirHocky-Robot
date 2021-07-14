@@ -6,7 +6,7 @@ Arduino und Raspberry Code für den AirHocky Tisch
     - gui.py - Der finale Code. Es wird eine GUI erzeugt, mit der das Spiel steuerbar ist.
     - tracking.py - Der Code ohne GUI. Steuerbar über Terminal und Tastatureingaben.
 - Arduino Programmcode
-    - 
+    - motorAnsteuerung.ino
 - Videos
     - merge_video_1625492102992.mp4 - Ein Video, in dem der erste, noch langsame, erfolgreiche Versuch dargestellt ist. Zusätzlich bildliche Darstellung des Puck-Trackings auf der Oberfläche
     - Video1.mov und Video2.mov - Weitere Videos mit einem schnelleren Pusher
@@ -17,3 +17,7 @@ Arduino und Raspberry Code für den AirHocky Tisch
     - Puck.ipt - Modell des Pucks
     - YAchseBasisteil.ipt - Modell des Basisteils der Y-Achse
     - YAchseMotorteil.ipt - Modell des Motorteils der Y-Achse
+    - X-Achse_HalterungMotor.ipt - Modell Halterung Motor X-Achse
+    - X-Achse_HalterungMotorAndereSeite.ipt - Modell Halterung Motor X-Achse spiegelverkehrt
+    - X-Achse_HalterungRillenKugelLager.ipt - Modell Halterung Kugellager X-Achse
+    - X-Achse_HalterungStange.ipt - Modell Halterung Stangen X-Achse
