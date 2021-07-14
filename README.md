@@ -9,3 +9,4 @@ Arduino und Raspberry Code für den AirHocky Tisch
     - 
 - Videos
     - merge_video_1625492102992.mp4 - Ein Video, in dem der erste, noch langsame, erfolgreiche Versuch dargestellt ist. Zusätzlich bildliche Darstellung des Puck-Trackings auf der Oberfläche
+    - Video1.mov und Video2.mov - Weitere Videos mit einem schnelleren Pusher
